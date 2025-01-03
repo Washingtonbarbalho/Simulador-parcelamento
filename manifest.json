@@ -1,6 +1,6 @@
 {
-  "name": "Simulador Zenir Móveis",
-  "short_name": "Simulador",
+  "name": "Simulador de Parcelamento Zenir Móveis",
+  "short_name": "Simulador de Parcelamento",
   "start_url": "./",
   "display": "standalone",
   "background_color": "#ffffff",
